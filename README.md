@@ -1,2 +1,2 @@
 # Infinity-Walking
-Simple animation for web animation lovers
+Simple animation for animation lovers using HTML & CSS
